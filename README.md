@@ -1,6 +1,26 @@
 # LINK-S-DE-SITES-EXTERNOS
+<!--------------------------------------------->
+<a href="
+LINK🔴
+" target="_blank"><h2>
+OUTRAABA🔴
+</h2></a>, 
+<!--------------------------------------------->
+<a href="
+LINK🔴
+" target="_blank"><h2>
+OUTRAABA🔴
+</h2></a>, 
+<!--------------------------------------------->
+<a href="
+LINK🔴
+" target="_blank"><h2>
+OUTRAABA🔴
+</h2></a>, 
+<!--------------------------------------------->
+<a href="
+LINK🔴
+" target="_blank"><h2>
+OUTRAABA🔴
+</h2></a>, 
 
-[LINK 1
-](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_social_media_buttons2)
-
-  https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_social_media_buttons
