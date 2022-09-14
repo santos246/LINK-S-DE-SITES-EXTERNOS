@@ -3,7 +3,7 @@
 <a href="
 https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_social_media_buttons2
 " target="_blank">
-BOTÕES REDES SOCIAIS - 1
+BOTÕES REDES SOCIAIS  1
 </a>
 <!--------------------------------------------->
 <a href="
