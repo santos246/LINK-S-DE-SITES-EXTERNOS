@@ -11,7 +11,7 @@ BOTÕES REDES SOCIAIS - 2
 <!--------------------------------------------->
 <button><a href="#" 
 target="popup" 
-onclick="window.open('https://drive.google.com/file/d/1sOMDLrzwCsEmz5DOyCH3jxV08FTuW_xf/preview','popup','width=1280,height=900'); return false;">
+onclick="window.open(https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_social_media_buttons2','popup','width=1280,height=900'); return false;">
 EXEMPLO DRIVE ABRIR NA PAG
 </a></button>
 <!--------------------------------------------->
