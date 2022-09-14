@@ -9,11 +9,11 @@ https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_social_media_butto
 BOTÕES REDES SOCIAIS - 2
 </a>
 <!--------------------------------------------->
-<a href="
-LINK🔴
-" target="_blank">
-OUTRAABA🔴
-></a>
+<button><a href="#" 
+target="popup" 
+onclick="window.open('https://drive.google.com/file/d/1sOMDLrzwCsEmz5DOyCH3jxV08FTuW_xf/preview','popup','width=1280,height=900'); return false;">
+EXEMPLO DRIVE ABRIR NA PAG
+</a></button>
 <!--------------------------------------------->
 <a href="
 LINK🔴
@@ -21,29 +21,5 @@ LINK🔴
 OUTRAABA🔴
 </a>
 <!--------------------------------------------->
-<a href="
-LINK🔴
-" target="_blank">
-OUTRAABA🔴
-></a>
-<!--------------------------------------------->
-<a href="
-LINK🔴
-" target="_blank">
-OUTRAABA🔴
-</a>
-<!--------------------------------------------->
-<a href="
-LINK🔴
-" target="_blank">
-OUTRAABA🔴
-></a>
-<!--------------------------------------------->
-<a href="
-LINK🔴
-" target="_blank">
-OUTRAABA🔴
-</a>
-
 
 
