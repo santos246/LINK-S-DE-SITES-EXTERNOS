@@ -1,15 +1,15 @@
 # LINK-S-DE-SITES-EXTERNOS
 <!--------------------------------------------->
 <a href="
-LINK🔴
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_social_media_buttons2
 " target="_blank">
-OUTRAABA🔴
+BOTÕES REDES SOCIAIS - 1
 </a>
 <!--------------------------------------------->
 <a href="
-LINK🔴
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_social_media_buttons
 " target="_blank">
-OUTRAABA🔴
+BOTÕES REDES SOCIAIS - 2
 </a>
 <!--------------------------------------------->
 <a href="
